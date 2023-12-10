@@ -1,0 +1,1 @@
+Run the script in folder which has the files in in it.
